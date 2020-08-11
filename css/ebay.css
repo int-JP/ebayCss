@@ -1,0 +1,7 @@
+.card-image {
+    display: flex !important;;
+    align-items: center !important;;
+    text-align: center !important;;
+    margin: 0 auto !important;;
+    background-color: black !important;
+}
