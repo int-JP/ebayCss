@@ -13,3 +13,8 @@
 .responsive-img {
     background-color: red !important;
 }   
+
+.everything {
+    border: 3px solid red !important;
+    background-color: black !important;
+}
