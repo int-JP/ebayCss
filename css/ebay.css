@@ -5,3 +5,11 @@
     margin: 0 auto !important;;
     background-color: black !important;
 }
+
+.row {
+    background-color: black !important;
+}
+
+.responsive-img {
+    background-color: red !important;
+}   
